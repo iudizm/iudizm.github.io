@@ -1,0 +1,58 @@
+# -- site settings --
+
+title: '@iudizm'
+description: Iudi Z. Melgarejo
+taglong: Iudi's personal website.
+tagshort: Iudi's site.
+url: https://iudiizm.github.io
+baseurl: ""
+permalink: pretty
+repo: https://github.com/iudizm/iudizm.github.io
+
+# -- author settings --
+
+# for the posts
+author:
+  name: Iudi Z. Melgarejo
+  email: iudizm@pm.me
+photo: /assets/png/photo.png
+
+social:
+  email: iudizm@pm.me
+  github: iudizm
+  instagram: iudizm
+  linkedin: iudizm
+  twitter: iudizm
+  # facebook: username
+  # stackoverflow: 0000000/username
+
+
+# -- build settings --
+
+exclude:
+  - LICENSE
+  - README.md
+
+plugins:
+  - jekyll-gist
+  - jekyll-paginate-v2
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+whitelist:
+  - jekyll-sitemap
+
+sass:
+  sass_dir: _sass
+  style: compressed
+  sourcemap: never
+
+autopages:
+  enabled: false
+
+pagination:
+  enabled: true
+  per_page: 1
+  sort_reverse: true
+  permalink: /:num/
+  title: ":title &middot; Page :num"
