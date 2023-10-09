@@ -6,12 +6,17 @@ lang: en
 
 # Curriculum Vitæ
 
+{% include iconlink.html icon="svg/download-square-outline.svg" href="/cv.pdf" %}[PDF](/cv.pdf)
+
 {% include contact.html %}
 
 ## Education
 
-* UFSC - Universidade Federal de Santa Catarina
-  - Tecnologias da Informação e Comunicação
+* **(2021 - present )** UFSC - Federal University of Santa Catarina
+  * Information and Communication Technologies
+
+* **(2017)** Berlitz English School - Washington, DC
+  * Advanced English Course
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 
