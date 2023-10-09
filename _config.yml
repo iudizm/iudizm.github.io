@@ -15,14 +15,14 @@ repo: https://github.com/iudizm/iudizm.github.io
 author:
   name: Iudi Z. Melgarejo
   email: iudizm@pm.me
-photo: /assets/png/photo.png
+photo: /assets/photos/photo2.jpg
 
 social:
   email: iudizm@pm.me
   github: iudizm
-  instagram: iudizm
+  # instagram: iudizm
   linkedin: iudizm
-  twitter: iudizm
+  # twitter: iudizm
   # facebook: username
   # stackoverflow: 0000000/username
 
