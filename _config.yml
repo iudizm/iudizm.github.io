@@ -56,3 +56,18 @@ pagination:
   sort_reverse: true
   permalink: /:num/
   title: ":title &middot; Page :num"
+
+# Adicione as configurações de idioma aqui
+defaults:
+  -
+    scope:
+      path: ""
+      type: "pages"
+    values:
+      lang: "en" # Idioma padrão é inglês
+  -
+    scope:
+      path: "pt_BR" # Caminho para o conteúdo em português brasileiro
+      type: "pages"
+    values:
+      lang: "pt_BR" # Idioma para as páginas em português brasileiro
