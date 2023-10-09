@@ -7,8 +7,4 @@ lang: pt_BR
 
 # Sobre
 
-[Clique aqui](/pt_BR/cv) para acessar o currículo, e [aqui pra baixar o currículo em PDF](/cv.pdf).
-
-Esse tema possui um blog: [ver Posts](/pt_BR/posts).
-
-Aqui, [veja a página 404](/pt_BR/404)
+[Clique aqui](/pt_BR/cv) para acessar o currículo.
