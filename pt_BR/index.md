@@ -3,15 +3,14 @@ layout: home
 title: Home
 lang: pt_BR
 ---
+[🇬🇧](/en)
 
 # Sobre
 
-BR BR BR
+[Clique aqui](/pt_BR/cv) para acessar o currículo, e [aqui pra baixar o currículo em PDF](/cv.pdf).
 
-[Click here](/pt_BR/cv) to see the full CV, and [here](/cv.pdf) to download a print version.
+Esse tema possui um blog: [ver Posts](/pt_BR/posts).
 
-The theme also ships with a blog: [click here](/pt_BR/posts) to scroll posts from the most recent.
-
-Finally, [click here](/pt_BR/404) to see a page that can't be found.
+Aqui, [veja a página 404](/pt_BR/404)
 
 {% include archive.html %}
