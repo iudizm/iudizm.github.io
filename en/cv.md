@@ -3,6 +3,7 @@ layout: cv
 title: CV
 lang: en
 ---
+[🇧🇷](/pt_BR/cv)
 
 # Curriculum Vitæ
 
