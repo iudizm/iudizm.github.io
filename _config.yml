@@ -4,7 +4,7 @@ title: '@iudizm'
 description: Iudi Z. Melgarejo
 taglong: Iudi's personal website.
 tagshort: Iudi's site.
-url: https://iudiizm.github.io
+url: https://iudizm.github.io
 baseurl: ""
 permalink: pretty
 repo: https://github.com/iudizm/iudizm.github.io
@@ -13,7 +13,7 @@ repo: https://github.com/iudizm/iudizm.github.io
 
 # for the posts
 author:
-  name: Iudi Z. Melgarejo
+  name: Iudi Z. M.
   email: iudizm@pm.me
 photo: /assets/photos/photo2.jpg
 
@@ -26,6 +26,7 @@ social:
   # facebook: username
   # stackoverflow: 0000000/username
 
+show_cv_on_home_page: false
 
 # -- build settings --
 

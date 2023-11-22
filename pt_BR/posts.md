@@ -7,7 +7,5 @@ lang: pt_BR
 
 ---
 
-BR BR
-
 {% include postlist.html %}
 {% include pagination.html %}
